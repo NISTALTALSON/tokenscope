@@ -1,5 +1,9 @@
 # TokenScope
 
+[![CI](https://github.com/NISTALTALSON/tokenscope/actions/workflows/ci.yml/badge.svg)](https://github.com/NISTALTALSON/tokenscope/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/NISTALTALSON/tokenscope)](https://github.com/NISTALTALSON/tokenscope)
+[![GitHub stars](https://img.shields.io/github/stars/NISTALTALSON/tokenscope?style=flat)](https://github.com/NISTALTALSON/tokenscope/stargazers)
+
 **Local-first AI usage and cost intelligence for developers, founders, and small teams.**
 
 TokenScope turns provider exports and manually recorded usage into a normalized, explainable view of token volume, requests, and cost. It is designed for teams that want useful answers without handing an analytics tool their provider passwords, prompts, or model responses.
